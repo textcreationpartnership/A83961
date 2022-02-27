@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands faiths defender vindicated: or, A word to clear a most foul, damnable and scandalous aspersion, which hath been cast upon that patient and suffering Prince, Charles II. By some villanous and seditious persons, that he should have renounced the Protestant religion, and Church of England, and have embraced Popery. Published out of Christian and loyal duty, by a person who hath been faithful ever since he could discern the light from darkness.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83961</idno>
+            <idno type="STC">Wing E2964</idno>
+            <idno type="STC">Thomason E1017_17</idno>
+            <idno type="STC">ESTC R207999</idno>
+            <idno type="EEBO-CITATION">99867006</idno>
+            <idno type="PROQUEST">99867006</idno>
+            <idno type="VID">168820</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168820)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands faiths defender vindicated: or, A word to clear a most foul, damnable and scandalous aspersion, which hath been cast upon that patient and suffering Prince, Charles II. By some villanous and seditious persons, that he should have renounced the Protestant religion, and Church of England, and have embraced Popery. Published out of Christian and loyal duty, by a person who hath been faithful ever since he could discern the light from darkness.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Charles King,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 15 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Church of England --  Early works to 1800.</term>
+               <term>Christian sects --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168820:1" rendition="simple:additions"/>
+            <p>
+               <hi>ENGLANDS</hi> Faiths Defender VINDICATED: OR, A Word to clear a moſt foul, damnable and ſcandalous Aſperſion, which hath been caſt upon that Patient and Suffering Prince, CHARLES II. By ſome villanous and ſeditious perſons, <hi>That he ſhould have renounced the Proteſtant Religion, and Church of</hi> England, <hi>and have embraced</hi> POPERY. Publiſhed out of Chriſtian and Loyal Duty, by a Perſon who hath been faithful ever ſince he could diſcern the light from darkneſs.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 6.16, 17, 18, 19.</hi>
+               </bibl>
+               <p>
+                  <hi>16.</hi> Theſe ſix things doth the Lord hate: yea, his ſoul abhorreth ſeven.</p>
+               <p>
+                  <hi>17.</hi> The haughty eyes, a lying tongue, and the hands that ſhed innocent blood.</p>
+               <p>
+                  <hi>18.</hi> An heart that imagineth wicked enterpriſes, and feet that be ſwift in running to miſchief.</p>
+               <p>
+                  <hi>19.</hi> A falſe witneſs that speaketh lyes, and he that raiſeth up contentions among brethren.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Charles King.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168820:2"/>
+            <pb n="3" facs="tcp:168820:2"/>
+            <head>
+               <hi>ENGLANDS</hi> Faiths Defender VINDICATED, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Chriſtian Countrymen,</salute>
+            </opener>
+            <p>OUt of that meaſure of light the Lord hath been pleaſed to afford me in theſe gloomy, and dayes of diſmal darkneſs, I think my ſelf bound both in Conſcience and Duty as a Sub<g ref="char:EOLhyphen"/>ject, and as a Chriſtian, to witneſs againſt ſuch Diabolical devices as may be ſcattered abroad to the diſhonor of God, our poor exiled innocent long-ſuffering Prince, and of Chriſtian Religion it ſelf, that the devices of the Devil may not alwayes be ſeducively prevalent, but that the miſled people may have ſome light to clear them of damnable doubts; As now of the falſity of the enſuing, which without doubt in its coming forth in ſuch damnable colours, hath much terrified the Souls and tender Conſciences of many of Gods people. I therefore have taken upon me this enſuing, to Vindicate that true and fundamentally grounded-Proteſtant, and <hi>Defender of the Faith</hi> and Church of <hi>England, CHARLES</hi> the Second, King of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> &amp;c.</p>
+            <p>Give me leave then, and I hope without offence I may anſwer for the abſent; if not, Ile preſume: for it cuts my very Soul to hear ſuch notorious Scandals caſt upon that moſt innocent Prince, which would paſs for currant, ſhould none riſe up to reprove the backbiters: But let them hear what the Apoſtle ſaith, 1 <hi>Pet.</hi> 2.1. <hi>Wherefore laying aſide all maliciouſneſs, and all guile, and all diſsimulation, and envy, and all Evil speaking.</hi> Then, now that the men of the Times, who under pretence of Holineſs, Zeal and Religion, have ſubverted this late glorious Church and State, and brought it to nothing, but a ruined
+<pb n="4" facs="tcp:168820:3"/>heap of innumerable Calamities. Now that God in ſome meaſure hath opened the eyes of the people to diſcern their wicked deteſtable, infernal, and out of meaſure ſinful actings; now that they ſee their Plots diſcovered, and that they fear ſome dolefull <hi>Ca aſtrophe</hi> to Crown their perniciouſly publick deſtructive Labours; the Counſels now on foot portending an unlucky <hi>Omen</hi> towards them, they have gone to conſult with their Maſter, who hitherto hath ſtill backt them on to all their damnable Deſigns, who now ſeeing there is no proba<g ref="char:EOLhyphen"/>bility left in them to advance his Kingdom here, hath forſaken them, to run for a ſpace at their chains length, upon that Stage wherein they have Acted with a Devilliſh <hi>Plaudite</hi> ſo many direful Tragedies, that they may receive the ſhame and deriſion of the Multitude, until ſuch time as the hand of an earthly Executioner ſhall recommend them to the Stygian <hi>Charon</hi> (according to the Poets.)</p>
+            <p>Seeing thus he hath cancelled their Commiſsions, and denied them his aſsiſtance, they call a <hi>Grand Convention,</hi> to ſee what they can doe, and hope by the ſtrength of their own Arguments, that they ſhall dive out of the Hell of Hells within them, to remount the Saddle which of late hath given them ſo ſcurvy a turn on the dirt; and nothing is ſo conducent to the affair in this extremity, but to give out this:</p>
+            <p>
+               <hi>What, are the People poſſeſſed with ſome Infernal, that they will re<g ref="char:EOLhyphen"/>admit of that Religion, which at the price of ſo much Blood, Treaſure, and other perillous hazards, hath been expunged this Commonwealth? Know they not the blindneſs and ignorance of the Papiſts, and that it is a ſure way to Perdition? and will they make that Apoſtate, great Papiſt grown,</hi> Charles Stuart, <hi>their King? Surely the Lord hath left them, and given them up to a ſtate of Reprobation. Well, we will waſh our hands, and the guilt of their Souls be upon their own heads.</hi>
+            </p>
+            <p>Thus vent they their damnable Forgeries, which bear no other im<g ref="char:EOLhyphen"/>preſſion, than that of Hell: But God will confound their helliſh in<g ref="char:EOLhyphen"/>ventions, and bring to light their works of darkneſs. God revealeth the hidden works of darkneſs, and bringeth to light the counſels of the wicked. <hi>What</hi> (ſaith the Pſalmiſt) <hi>doth the wicked man do? be<g ref="char:EOLhyphen"/>hold, he travelleth with iniquity, and hath conceived miſchief, and brought forth falſhood,</hi> &amp;c. Pſal. 7.14, 15, 16. And 1 <hi>Cor.</hi> 1.19. <hi>The wiſdom of this world is fooliſhneſs with God, for it is written, He catcheth the wiſe in their own craftineſs.</hi>
+            </p>
+            <p>
+               <hi>Dear Friends,</hi> Examine your ſelves, and your own Conſciences will
+<pb n="5" facs="tcp:168820:3"/>tell you, that the wiſdom of theſe Hyyocrites is a lie, and their hopes ſhall periſh. Reaſon with your ſelves my following Arguments which I ſhall preſently lay down, and I am confident you will ſigne them as a confirmation to your troubled Souls, That he is no other than a true Proteſtant according to the Church of <hi>England;</hi> and I preſume, if occaſion ſhould require, he would expoſe himſelf to the Martyring Stake, for the Defence of the true Proteſtant Religion, and Church of <hi>England,</hi> and therefore deſerves the Title of his Predeceſſors, <hi>Defender of the Faith.</hi>
+            </p>
+            <p>I could offer many Arguments; though I queſtion not but theſe two which I ſhall here inſert, will be ſufficient proof to clear the point: And becauſe I am loth to preſume too much upon your patience, I thus lay down my firſt Argument, to prove that <hi>Charles the Second, King of</hi> England, <hi>&amp;c. is a true Proteſtant; viz.</hi> That notwithſtanding his being born a Prince to all the Dignities and Honours of the Crowns and Scepters that his Predeceſſors have ſwayed; His being Baniſhed from all theſe, and all the Pleaſures and Delights of fruitful <hi>England,</hi> of which he had had ſome ſmall ſmach before his perpetual deter<g ref="char:EOLhyphen"/>mined Exile; That he ſhould be forc'd to fly for Refuge to Strangers, hurried and toſſed, upon the reſtleſs wheel of Fortune, from one place to another, out of one perillous danger into another, nothing but fears and dangers encompaſsing him on every ſide; Notwithſtanding his Eleven years baniſhed reſidence to light amongſt the chiefeſt Up<g ref="char:EOLhyphen"/>holders of Popery; and on the other ſide, ballancing with theſe the large Promiſes have been made to him by moſt Poliſh Potentates (the Pope himſelf) for eſtabliſhment of him in his Throne and Dignity, provided he would renounce his Religion, and imbrace Popery, weigh<g ref="char:EOLhyphen"/>ing his Adverſity and Proſperity together: And notwithſtanding all theſe things, that yet he ſhould ſtand firm and immoveable to his firſt Principles, denotes his undoubted Reſolution to live and die for the Church and Proteſtants of <hi>England,</hi> and the great grace and mercy of God to be working in him, who ſurely hath reſerved him for ſome great and glorious Work. This as a Preamble. Now take the ſum of this Argument; to wit, his following Declaration in the midſt of thoſe (though quite different in the Principles of Religion) from whom he receives his ſubſiſtance; and that to Cardinal <hi>Mazarine,</hi> a great Inſtigator of the Papiſtical Intereſt, who comes to the King, and and after a dolorous ſtating of the Kings moſt ſad and deplorable exiled
+<pb n="6" facs="tcp:168820:4"/>condition, tells him what friends and means he would procure him in order to his ſettlement, if he would but imbrace the pure Religion of the Papiſts, and renounce the Hereſies of <hi>England:</hi> And withall, after his eſtabliſhment, but tolerate the Papiſts freely to exerciſe within his Dominions, and that he would ſuſpend the Penal Statutes and Acts of Parliament made againſt them. But mark how the King declares himſelf in anſwer to this ſubtile Temptation, which completes my firſt Argument, <hi>That</hi> Charles <hi>the Second King of</hi> England, <hi>&amp;c. is a true Proteſtant of the Faith of the Church of</hi> England.</p>
+            <p>Sir, <hi>I thank you for your affections and love towards me; but your de<g ref="char:EOLhyphen"/>mands are unreaſonable, as againſt my Conſcience, and thoſe Principles of Chriſtian Religion in which</hi> (<hi>in the Church of</hi> England) <hi>I have been train<g ref="char:EOLhyphen"/>ed up: Then how can I do that thing, and ſin againſt the Lord? it is better to ſuffer than to ſin; and I am fully reſolved, rather than ſo to die a Mar<g ref="char:EOLhyphen"/>tyr in defence of the Church of</hi> England. <hi>And beſides, admit I ſhould renounce; ſuch things as in the latter part you requeſt, lye not in my power to give you ſatisfaction in: for ſuch Laws as are made and confirmed by a Parliament (according to the Conſtitution of our Government) no King of</hi> England <hi>can abrogate; and if my reſtauration can be accompliſhed by none but ſuch an unlawful and unconſcionable way, I do here determine to wait with patience upon God in a perpetual Exile, who if he ſhall not ſee an earth<g ref="char:EOLhyphen"/>ly Crown meet for me, I hope will make me able to ſay, I have fought a good fight, I have finiſhed my courſe, I have kept the faith: henceforth is laid up for me a Crown of Righteouſneſs,</hi> &amp;c.</p>
+            <p>My ſecond Argument is. That ſeeing their ſubtilty could have no prevalency over his ſpirit, or their temptations draw him from the Truth, to embrace their blinde and moſt damnable Errors, they at laſt contrive to force him to ſome ſolemn Proteſtation of that nature by violence, but all had the like operation, in that finding the bottom of their devices, he rather choſe to abandon their Protection, and commit himſelf to the wide world, without any certain place of reception or refuge to fly to, than to hazard his precious Soul, diſhonor God, and ſtigmatize his Progenitors and Royal Predeceſſors, with ſo great a mark of Ignominy, as by ſubmitting to the unlawful, ſubtile and forci<g ref="char:EOLhyphen"/>ble demands of thoſe wicked Papiſts he ſhould. His late eſcape, or at leaſt ſome ſhew of an eſcape, from his Court at <hi>Bruxels,</hi> doth clearly manifeſt and make good this ſecond Argument, <hi>That King</hi> Charles <hi>is a true Proteſtant of the Church of</hi> England.</p>
+            <pb n="7" facs="tcp:168820:4"/>
+            <p>Theſe, I hope, will ſtop the mouthes of the ſlanderers, for their fur<g ref="char:EOLhyphen"/>ther venting abroad any more ſuch damnable falſities; at leaſt, ground all good people from any further belief of them, if they ſhall dare preſume to ſcatter abroad any more of the like nature.</p>
+            <p>Thus having uttered my knowledge and Conſcience, I hope you will excuſe what I have ſaid amiſs, and ponder this thing, that is of ſuch great Concernment, in your hearts.</p>
+            <p>To conclude in a word: Do not all good people deſire peace and ſettlement in this turmoiled Church, and ſhipwrackt State? Know ye not the way to peace? and that <hi>a Kingdom divided againſt it ſelf can<g ref="char:EOLhyphen"/>not ſtand?</hi> then how do you think to live in peace, whilſt we thus la<g ref="char:EOLhyphen"/>bour againſt the ſtream? What Government are we founded upon? know you not? What has our forefathers been alwayes ſubject unto? what was the Government they have alwayes found ſuch peaceable li<g ref="char:EOLhyphen"/>ving under? hath not 300 Kings and more ſwayed the Engliſh Sce<g ref="char:EOLhyphen"/>pter, and are we grown more wiſe than all paſt generations? Doth not the very word of God manifeſt againſt us, <hi>Prov.</hi> 24.21. <hi>My Son, fear God and the King, and meddle not with them which are given unto Chan<g ref="char:EOLhyphen"/>ges:</hi> v. 22. <hi>For their deſtruction ſhall riſe ſuddenly, and who knoweth the ruine of them both?</hi> Prov. 28.2. <hi>For the tranſgreſsions of the Land, many are the Princes thereof: but by a man of underſtanding and knowledge, a Realm likewiſe endureth long.</hi> Ballance the Miſeries and Calamities have been predominant over you theſe 11 years, in expectation of this <hi>Utopian</hi> Commonwealth, with the Peace and flouriſhing eſtate you have lived under, when Monarchy was your Soveraign, and then you will be able to diſtnguiſh the light from darkneſs; then will you cry no more, <hi>Crucifie him, Crucifie him,</hi> but, <hi>Lord, return us our Judges as at the firſt, and our Rulers and Counſellors as in the beginning.</hi> Doth not Nature teach you, that Monarchy runs in Engliſh veins; and you ſee what Diſeaſes have fallen upon you, by the Corruption which you have wrought in your blood? Ought ye not to follow the example of God in all things, for hath not he made you in his own likeneſs? he is the <hi>Lord of lords,</hi> and <hi>King of kings,</hi> a <hi>God bleſſed for evermore.</hi> He hath granted a Monarchical Power and Commiſsion to King <hi>Jeſus:</hi> Nay, (according to the obſervation of Naturaliſts) the very Bruits and ſenſe<g ref="char:EOLhyphen"/>leſs Animals, both Walking, Creeping, Swimming and Flying, do go<g ref="char:EOLhyphen"/>vern to our ſhame: And Cuſtom, (a ſecond Nature) pleads a Monar<g ref="char:EOLhyphen"/>chical Prerogative in this Nation, prohibiting the introduction of any
+<pb n="8" facs="tcp:168820:5"/>ſtrange and new found Government. And laſtly, our Laws are modellized ſo aptly for ſuch a Conſtitution, that the very Lawyers themſelves confeſs and acknowledge, they cannot in their natural preſidential property comply with any other. <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſeeing it is thuſ, and that at laſt you grant Monarchy the beſt (which I dare pre<g ref="char:EOLhyphen"/>ſume none can deny, but ſuch as have feathered themſelves out of the Nations Ruines, and that not out of Conſcience, but wilful obſtinacy, thinking thereby to ſave their eſtates unlawfully accrewing unto them) ſeeing, I ſay, you have ſome ſpacks of Loyalty yet left to tend that way, ye know that our Government is not Efective but ſucceſsive: Then why thus long ſtand ye gazing on the tedious Ex<g ref="char:EOLhyphen"/>ile of you long ſuffering, vertuous, and moſt noble King, the lawful Succeſſor to the Crown of <hi>England?</hi> Why are ye not preparing for the day of his Coronation? Surely it will be performed in ſuch magnificent manner, as never yet was perform<g ref="char:EOLhyphen"/>ed at the Inauguration of any Engliſh Prince. For that ye have had 11 years to make proparations therein: But oh, I fear ye can give but a Tragical accompt, therefore up and be doing, for I aſſure you it is high time: How often has your King knocked at your doors, but ye would not open? How long has his patience waited to enter in, but ye would not receive him with the Laurel branch in his hand? What is it you alledge againſt <hi>Charles</hi> the Second to be your King? he is an Engliſh Prince, he is Patient, he is Wiſe, he is Vertuous, he is Merciful, he is an Underſtanding Prince, he is Religious, he is Zealous, he is a true Proteſtant: Fi<g ref="char:EOLhyphen"/>nally, he is all in all that a good King ſhould be; <hi>Ergo,</hi> as fit to ſway the Engliſh Scepter, as ever any one that hath ſate upon the Throne before him. If you de<g ref="char:EOLhyphen"/>light not to ſee the Glory and Honour of God rent in pieces, his Church defloured, his Vineyard trampled down, the Food of your Souls profaned; if you delight not in Blood, and Ruines of Blood, Fire, Famine, Death, continual VVars, and rumours of VVars, Oppreſsions, continual Fea s, the Cries and Shrikes of your Wives and Children, the Ruines of your Houſes, the Deſtruction of your Eſtates, the Hiſsing of all Nations, the Decay of Trading, the VVant of Bread to ſuſtain your ſelves, the ſum of all that ever Horror and Diſſolution can introduce into any Nation: But on the other ſide, if you reſpect the Glory and Honour of God, the Encreaſe of his Church, the Eſtabliſhing of the Kingdom of Chriſt in the utter<g ref="char:EOLhyphen"/>moſt Corners of the Earth, the Salvation of your own Souls in the Day of the Lord, the Good of your Selves, VVives and Children, the Abundance of all Tem<g ref="char:EOLhyphen"/>poral Mercies and Bleſsings, the Fulneſs of Trade, and Encreaſe of Traffics, to become the Terror (as formerly) of all the Nations round about ye; Then Call Home your King from Exile, and Eſtabliſh Him on the Royal Throne, that he may Judge the People in Mercy, Righteouſneſs and Truth. Then ſhall all People with Joy and Gladneſs, with Cheerfulneſs of ſpirit lift up themſelves, and cry, <hi>Long live the King, and let Him Rule His People unto</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
